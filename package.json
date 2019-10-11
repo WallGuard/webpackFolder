@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "webpackFolder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,8 @@
     "watch": "webpack --mode development --watch"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Mikhail Topal <wallgurd313@gmail.com",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
